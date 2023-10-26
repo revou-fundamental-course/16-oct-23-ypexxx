@@ -59,17 +59,13 @@
 
 
 /* Our skill Section start */
-.menu h2 p {
-    border-radius: 50%;
-    margin-left: 20px;
-}
-
 .menu .row {
     display:flex ;
     flex-wrap: wrap;
     margin-top: 5rem;
     justify-content: center;
     margin: 50px;
+    flex-direction: row;
 }
 
 .menu .row .foto-skill img {
